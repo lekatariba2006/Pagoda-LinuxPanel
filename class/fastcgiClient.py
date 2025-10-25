@@ -25,6 +25,11 @@
 # $Id$
 #
 # Copyright (c) 2011 Vladimir Rusinov <vladimir@greenmice.info>
+#    Панель управления Pagoda Linux
+#    ПЕРЕВОД НА РУССКИЙ ЯЗЫК СДЕЛАН С ПОМОЩЬЮ ПЕРЕВОДЧИКА ОНЛАЙН 
+#    И ПРЕДНАЗНАЧЕН ИСКЛЮЧИТЕЛЬНО В ОБРАЗОВАТЕЛЬНЫХ ЦЕЛЯХ ДЛЯ ЛИЧНОГО ИСПОЛЬЗОВАНИЯ
+#    
+#
 
 __author__ = 'Allan Saddi <allan@saddi.com>'
 __version__ = '$Revision$'

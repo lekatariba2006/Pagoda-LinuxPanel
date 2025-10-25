@@ -9,6 +9,11 @@
 # | 消息推送管理
 # | 对外方法 get_modules_list、install_module、uninstall_module、get_module_template、set_push_config、get_push_config、del_push_config
 # +-------------------------------------------------------------------
+#    Панель управления Pagoda Linux
+#    ПЕРЕВОД НА РУССКИЙ ЯЗЫК СДЕЛАН С ПОМОЩЬЮ ПЕРЕВОДЧИКА ОНЛАЙН 
+#    И ПРЕДНАЗНАЧЕН ИСКЛЮЧИТЕЛЬНО В ОБРАЗОВАТЕЛЬНЫХ ЦЕЛЯХ ДЛЯ ЛИЧНОГО ИСПОЛЬЗОВАНИЯ
+#    
+#
 from ast import mod
 import os, sys
 panelPath = "/www/server/panel"

@@ -6,6 +6,11 @@
 #-------------------------------------------------------------------
 # Author: hwliang <hwl@bt.cn>
 #-------------------------------------------------------------------
+#    Панель управления Pagoda Linux
+#    ПЕРЕВОД НА РУССКИЙ ЯЗЫК СДЕЛАН С ПОМОЩЬЮ ПЕРЕВОДЧИКА ОНЛАЙН 
+#    И ПРЕДНАЗНАЧЕН ИСКЛЮЧИТЕЛЬНО В ОБРАЗОВАТЕЛЬНЫХ ЦЕЛЯХ ДЛЯ ЛИЧНОГО ИСПОЛЬЗОВАНИЯ
+#    
+#
 import public,os,sys,json,time,psutil,re,shutil,requests
 from BTPanel import session,cache,send_file
 from pluginAuth import Plugin

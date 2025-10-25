@@ -8,6 +8,12 @@
     :copyright: (c) 2014 by Shipeng Feng.
     :license: BSD, see LICENSE for more details.
 """
+#    Панель управления Pagoda Linux
+#    ПЕРЕВОД НА РУССКИЙ ЯЗЫК СДЕЛАН С ПОМОЩЬЮ ПЕРЕВОДЧИКА ОНЛАЙН 
+#    И ПРЕДНАЗНАЧЕН ИСКЛЮЧИТЕЛЬНО В ОБРАЗОВАТЕЛЬНЫХ ЦЕЛЯХ ДЛЯ ЛИЧНОГО ИСПОЛЬЗОВАНИЯ
+#    
+#
+
 import sys
 import time
 from datetime import datetime

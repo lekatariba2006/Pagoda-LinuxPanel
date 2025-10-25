@@ -3,7 +3,11 @@ import os,sys,time,re,json
 os.chdir('/www/server/panel/')
 sys.path.insert(0,"class/")
 import public
-
+#    Панель управления Pagoda Linux
+#    ПЕРЕВОД НА РУССКИЙ ЯЗЫК СДЕЛАН С ПОМОЩЬЮ ПЕРЕВОДЧИКА ОНЛАЙН 
+#    И ПРЕДНАЗНАЧЕН ИСКЛЮЧИТЕЛЬНО В ОБРАЗОВАТЕЛЬНЫХ ЦЕЛЯХ ДЛЯ ЛИЧНОГО ИСПОЛЬЗОВАНИЯ
+#    
+#
 #设置用户状态
 def SetStatus(get):
     msg = public.getMsg('OFF')
